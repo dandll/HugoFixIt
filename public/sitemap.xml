@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://blog.cdadoc.org/categories/</loc>
     <lastmod>2025-07-09T11:30:13+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/draft/</loc>
+    <loc>https://blog.cdadoc.org/categories/draft/</loc>
     <lastmod>2025-07-09T11:30:13+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/draft/</loc>
+    <loc>https://blog.cdadoc.org/tags/draft/</loc>
     <lastmod>2025-07-09T11:30:13+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/583bc6c/</loc>
+    <loc>https://blog.cdadoc.org/posts/583bc6c/</loc>
     <lastmod>2025-07-09T11:30:13+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.cdadoc.org/</loc>
     <lastmod>2025-07-09T11:30:13+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://blog.cdadoc.org/posts/</loc>
     <lastmod>2025-07-09T11:30:13+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://blog.cdadoc.org/tags/</loc>
     <lastmod>2025-07-09T11:30:13+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/collections/</loc>
+    <loc>https://blog.cdadoc.org/collections/</loc>
   </url>
 </urlset>
