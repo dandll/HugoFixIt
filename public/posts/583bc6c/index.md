@@ -8,5 +8,5 @@
 ---
 
 > 作者: <no value>  
-> URL: https://blog.cdadoc.org/posts/583bc6c/  
+> URL: http://localhost:1313/posts/583bc6c/  
 
